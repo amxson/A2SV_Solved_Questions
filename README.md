@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1528-shuffle-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
