@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Design
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
