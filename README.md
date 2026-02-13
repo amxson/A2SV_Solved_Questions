@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
