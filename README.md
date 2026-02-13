@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2460-apply-operations-to-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Simulation
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Math
 |  |
 | ------- |
