@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0661-image-smoother](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [2460-apply-operations-to-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
