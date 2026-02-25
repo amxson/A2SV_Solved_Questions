@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [2460-apply-operations-to-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
