@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [2460-apply-operations-to-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
