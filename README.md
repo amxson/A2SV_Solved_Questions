@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1528-shuffle-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
