@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -242,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
