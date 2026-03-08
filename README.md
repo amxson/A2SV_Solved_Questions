@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -281,8 +283,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
