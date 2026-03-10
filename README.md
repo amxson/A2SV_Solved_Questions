@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0739-daily-temperatures](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0739-daily-temperatures](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Doubly-Linked List
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
