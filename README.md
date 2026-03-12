@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1029-two-city-scheduling](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
