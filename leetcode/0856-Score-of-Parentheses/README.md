@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium
 
-**Problem:** [Score-of-Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+**Problem:** [Score-of-Parentheses](https://leetcode.com/problems/score-of-parentheses/description/?envType=problem-list-v2&envId=stack)
 
 ---
 
