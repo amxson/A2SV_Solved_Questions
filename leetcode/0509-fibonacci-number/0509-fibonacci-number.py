@@ -1,17 +1,18 @@
 class Solution:
     def fib(self, n: int) -> int:
-        f,s, = 0, 1
-        ans = 0
-        if n == 0: return f
-        if n == 1: return s
-        def fibo(f ,s):
-            return s, f+s
-            
+        
+        if n == 0:
+            return 0
+        if n == 1:
+            return 1
 
-        while n >1:
-            f,s = fibo(f,s)
-            n-=1
-        return s
+        
+        def fibo(a, b, count):
+            if count == n:
+                return b
+            return fibo(b, a + b, count + 1)
+
+        return fibo(0, 1, 1) 
     
 
         
