@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
@@ -384,4 +385,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
