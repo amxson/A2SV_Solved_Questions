@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
