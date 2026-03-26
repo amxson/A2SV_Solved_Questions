@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1528-shuffle-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2381-shifting-letters-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -446,4 +447,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0077-combinations) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Enumeration
+|  |
+| ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
