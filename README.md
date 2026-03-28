@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting Sort
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
