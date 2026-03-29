@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0055-jump-game) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
