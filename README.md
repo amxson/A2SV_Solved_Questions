@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amxson/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
