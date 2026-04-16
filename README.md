@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2460-apply-operations-to-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -506,4 +509,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Merge Sort
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/amxson/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
