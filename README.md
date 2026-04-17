@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0202-happy-number) |
