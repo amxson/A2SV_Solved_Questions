@@ -23,4 +23,3 @@ class Solution:
         if i is not None and nums.count(i)>len(nums)/3:
             ans.append(i)
        return list(set(ans))
-
