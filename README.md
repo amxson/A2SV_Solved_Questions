@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0832-flipping-an-image](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -315,12 +320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -587,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amxson/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/amxson/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
